@@ -4,7 +4,6 @@
 > Bing API 接口文档
 
 ## 使用方法
-<hr/>
 
 安装node.js
 
@@ -16,7 +15,6 @@ npm start #运行
 
 
 ## 特性
-<hr />
 
 - Bing原生返回值
 - 支持json格式
@@ -26,7 +24,6 @@ npm start #运行
 
 
 ## 接口
-<hr />
 
 
 #### 原生Bing返回接口
